@@ -1,4 +1,4 @@
-# TS Systems: Employee & Product Catalog
+# TS 
 
 ## Cara Setup
 1. npm install -D typescript jest ts-jest @types/jest
