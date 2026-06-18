@@ -1,2 +1,10 @@
-1. npm init -y
-2. npm install -D typescript jest ts-jest @types/jest
+# TS Systems: Employee & Product Catalog
+
+## Cara Setup
+1. npm install -D typescript jest ts-jest @types/jest
+
+
+## Cara Run
+1. npx ts-node src/index.ts
+2. npm test
+
